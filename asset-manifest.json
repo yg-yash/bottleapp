@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bottleapp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/bottleapp/static/js/main.ed8b146a.chunk.js",
+    "main.js.map": "/bottleapp/static/js/main.ed8b146a.chunk.js.map",
+    "runtime-main.js": "/bottleapp/static/js/runtime-main.f27a9929.js",
+    "runtime-main.js.map": "/bottleapp/static/js/runtime-main.f27a9929.js.map",
+    "static/js/2.896aa886.chunk.js": "/bottleapp/static/js/2.896aa886.chunk.js",
+    "static/js/2.896aa886.chunk.js.map": "/bottleapp/static/js/2.896aa886.chunk.js.map",
+    "static/js/3.61649dd0.chunk.js": "/bottleapp/static/js/3.61649dd0.chunk.js",
+    "static/js/3.61649dd0.chunk.js.map": "/bottleapp/static/js/3.61649dd0.chunk.js.map",
+    "index.html": "/bottleapp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/bottleapp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.896aa886.chunk.js.LICENSE.txt": "/bottleapp/static/js/2.896aa886.chunk.js.LICENSE.txt",
+    "static/media/Bottle.c9196ed9.glb": "/bottleapp/static/media/Bottle.c9196ed9.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f27a9929.js",
+    "static/js/2.896aa886.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ed8b146a.chunk.js"
+  ]
+}
